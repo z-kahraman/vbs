@@ -1,5 +1,3 @@
----
-
 # Project: Excel Profit Calculation
 
 This project aims to calculate the profit based on two columns in an Excel file using VBS script.
@@ -11,7 +9,7 @@ Set objExcel = CreateObject("Excel.Application")
 In this step, we initialize the Excel application.
 
 ## Step 2: Open Excel File
-```vbs
+```
 Set objWorkbook = objExcel.Workbooks.Open("test.xlsx")
 ```
 Here, we open the Excel file that contains the data.
