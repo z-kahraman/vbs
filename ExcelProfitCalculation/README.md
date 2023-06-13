@@ -12,7 +12,7 @@ In this step, we initialize the Excel application.
 
 ## Step 2: Open Excel File
 ```vbs
-Set objWorkbook = objExcel.Workbooks.Open("C:\UpWork\ExcelProfit\test.xlsx")
+Set objWorkbook = objExcel.Workbooks.Open("test.xlsx")
 ```
 Here, we open the Excel file that contains the data.
 
