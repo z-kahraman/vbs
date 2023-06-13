@@ -17,7 +17,7 @@ The Profit Calculation example demonstrates how to calculate profit based on dat
 
 - Microsoft Excel
 
-For detailed information on the implementation and usage of the Profit Calculation example, please refer to the [example folder](./profit-calculation/README.md).
+For detailed information on the implementation and usage of the Profit Calculation example, please refer to the [example folder](https://github.com/z-kahraman/vbs/tree/main/ExcelProfitCalculation).
 
 ## Resources
 
